@@ -1,1 +1,2 @@
-print('Hello world')
+n1=int(input('введите 1 число'))
+n2=int(input('введите 2 число'))
